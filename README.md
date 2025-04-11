@@ -44,3 +44,7 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/inventory-db
 JWT_SECRET=your_jwt_secret
 
+
+# run the server
+npm run dev      # Start in development mode
+npm start        # Run production build
